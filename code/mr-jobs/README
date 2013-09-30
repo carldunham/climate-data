@@ -1,2 +1,0 @@
-
-python MRExtractGSODWindData.py -r emr -c mrjob.conf `cat input-files.txt` --no-output --output-dir=s3://climate-data.carldunham.com/mr-output/2013-mm-dd-HHss
