@@ -23,7 +23,7 @@ import json
 DEBUG = 0
 
 VARS = ('temp', 'windspeed', 'gust')
-STATS = ('N', 'min', 'max', 'mean')
+STATS = ('N', 'min', 'max', 'mean', 'sd')
 
 
 def main():

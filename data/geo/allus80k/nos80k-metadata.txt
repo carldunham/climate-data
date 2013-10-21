@@ -1,0 +1,413 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey, and the Strategic Environmental Assessments (SEA) Division of the Office of Ocean Resources Conservation and Assessment (ORCA)
+      Publication_Date: 1994
+      Title: NOS80K - Medium Resolution Digital Vector U.S. Shoreline shapefile for the contiguous United States
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Silver Spring, MD
+        Publisher: NOAA/NOS/ORCA/SEA
+      Online_Linkage: http://coastalmap.marine.usgs.gov/GISdata/basemaps/coastlines/nos80k/nos80k.zip
+      Online_Linkage: http://coastalgeospatial.noaa.gov/shoreline.html
+      Online_Linkage: http://coastalgeospatial.noaa.gov/gis_files/shoreline/shoreline_data_dictionary.html
+      Online_Linkage: http://www.ngdc.noaa.gov/mgg/shorelines/noaamrdvs.html
+  Description:
+    Abstract: National Oceanic and Atmospheric Administration's (NOAA) Medium Resolution 1:70,000 scale Digital Vector Shoreline is a high-quality, Geographic Information System-ready, general-use digital vector data set containing the coastline of the contiguous United States of America. It was created by the Strategic Environmental Assessments (SEA) Division of NOAA's Office of Ocean Resources Conservation and Assessment. Compiled from hundreds of NOAA coast charts, this product comprises over 75,000 nautical miles of coastline (nearly 2.5 million vertices). The shoreline was created from data captured (digitized from scanned images of the master separates of the NOS Charts) from over 270 National Ocean Service Navigation Charts and spans some 80,000 nautical miles at an average map scale of 1:70,000.
+    Purpose:
+      Shoreline spatial data are considered a crucial element in land use planning, determination of boundary extents, performing change analysis for erosion and accretion studies, and other types of decision making
+
+      This product comprises over 75,000 nautical miles of coastline (nearly 2.5 million vertices), representing the entire conterminous United States of America. Alaska, the Hawaiian Islands, Puerto Rico, and all other interests and territories of the United States are not included in the collection.
+
+      The data set is designed for a broad target audience ranging from governmental agencies, universities and other research institutions, to the private sector, and students, as well as any other concern requiring a general purpose digital shoreline layer for GIS and cartographic projects.
+    Supplemental_Information:
+      Generally, 1:80,000 NOAA coast charts took precedence and were used when available. For areas where 1:80,000 charts were not readily available, charts with the next closest higher scale (e.g., 1:60,0000) were used down to the highest scale available. Alternately, if higher scale charts were not available, charts of the closest lower scale (e.g., 1:100,000) were used down to the lowest scale. The digital shoreline for Florida was obtained from the state. This digital file was originally created from NOAA nautical charts and was not recreated by SEA. Generally, for these shoreline sections (EC80_06, GC80_05, and GC80_06), the highest scale charts available were used to digitize the shoreline. The resultant average mapping scale for the entire Medium Resolution Digital Vector Shoreline is approximately 1:70,000. See NOAA's Medium Resolution Digital Vector Shoreline website for more details on this product: <http://coastalgeospatial.noaa.gov/shoreline.html>
+
+      Source data from charts published using the North American Datums of 1902, 1927, and 1983. 1902 and 1927 referenced data was converted to 1983 via NOAA, National Geodetic Survey Software NADCON, version 2.1.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1988
+        Ending_Date: 1992
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.762451
+      East_Bounding_Coordinate: -66.791978
+      North_Bounding_Coordinate: 49.373047
+      South_Bounding_Coordinate: 24.501658
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: National Oceanic and Atmospheric Administration
+      Theme_Keyword: NOAA
+      Theme_Keyword: Digital Vector Shoreline
+      Theme_Keyword: polygon shapefile
+      Theme_Keyword: Digital Geographic Boundaries
+      Theme_Keyword: shore
+      Theme_Keyword: shoreline
+      Theme_Keyword: coast
+      Theme_Keyword: coastal features
+      Theme_Keyword: shoreline vectorization
+      Theme_Keyword: NOAA nautical chart
+      Theme_Keyword: digital geographic boundaries
+      Theme_Keyword: Aerial Photography and Shoreline Mapping
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic category
+      Theme_Keyword: elevation
+      Theme_Keyword: oceans
+      Theme_Keyword: boundaries
+      Theme_Keyword: environment
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: United States
+      Place_Keyword: contiguous US
+      Place_Keyword: US 48 states
+      Place_Keyword: North America
+      Place_Keyword: conterminous United States
+      Place_Keyword: East Coast
+      Place_Keyword: West Coast
+      Place_Keyword: Gulf of Mexico
+      Place_Keyword: Gulf Coast
+      Place_Keyword: Great Lakes
+  Access_Constraints: None
+  Use_Constraints:
+    These data are not to be used for navigation purposes.  Mariners should refer to the appropriate nautical chart.
+
+    Public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: National Oceanic and Atmospheric Administration (NOAA) , National Ocean Service (NOS), Special Projects (SP)
+        Contact_Person: Steve Rohmann
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 1305 East West Highway, N/SCI-1
+        City: Silver Spring
+        State_or_Province: MD
+        Postal_Code: 20910
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3000 x137
+      Contact_Facsimile_Telephone: (301) 713-4384
+      Contact_Electronic_Mail_Address: Steve.Rohmann@noaa.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/coastlines/nos80k/nos80k.gif
+    Browse_Graphic_File_Description: Overview showing the extent of the ALLUS80K shapefile
+    Browse_Graphic_File_Type: GIF
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/coastlines/nos80k/nos80k-det1.gif
+    Browse_Graphic_File_Description: Image showing coastline detail in the Boston/Cape Cod area.
+    Browse_Graphic_File_Type: GIF
+  Data_Set_Credit: Please credit National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey, and the Strategic Environmental Assessments (SEA) Division of the Office of Ocean Resources Conservation and Assessment (ORCA) as the originator of the dataset.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420
+Data_Quality_Information:
+  Attribute_Accuracy:
+  Logical_Consistency_Report: No additional checks for topological consistency were performed on the data.
+  Completeness_Report:
+    This is the complete dataset as provided by NOAA.
+
+    The Medium Resolution Shoreline incorporates the entire contiguous United States coastline as four major regions. These include: the Atlantic Coast, ranging from the United States-Canada Border at the St. Croix River to Florida Bay and the Florida Keys; the Gulf of Mexico Region, extending from northwest of the Keys to the United States-Mexico Border at the Rio Grande; the Pacific Coast Region, extending from the United States-Mexico Border at Baja to the United States-Canada Border along the Straits of Juan de Fuca; and the Great Lakes Region, which includes all of the lakes in their entirety, and the St. Lawrence River Seaway to Ogdensburg, NY. Alaska, the Hawaiian Island Archipelago, Puerto Rico, or any other U. S. interests which are not a part of the coterminous United States are not included in the collection.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        According to the National Oceanic and Atmospheric Administration (NOAA), the data supplied here are a compilation of information collected from some 270+ current or pre-release National Ocean Service Navigation Charts.   In compiling this product we made no attempt to ascertain the congruency between the charted data, and the real world.  Our objective was to simply capture the representative coastline as provided to us via the NOS Chart.  Every effort was made to capture the shoreline on these charts as faithfully as our skills and technology allowed, and there is every indication that we were successful to this end.  However, in doing so, we automatically conveyed the character (all aspects, both good and bad) of those data to our digital product.  A character which may or may not be in agreement with the real world.  Because of this, the user is advised to exercise caution in making any assumptions about the fallibility, or infallibility, of the spatial information supplied here; especially when circumstances warrant a high degree of absolute positional accuracy.
+
+        Spatial data were derived directly from National Ocean Service Navigation Charts.  The NOS Chart Products meet or exceed National Map Accuracy standards (hard copy); the digital data supplied in this compilation should, when plotted at scale, meet or exceed these same cartographic standards.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Special Projects Office (SPO)
+          Publication_Date: 1994
+          Title: NOAA's Medium Resolution Digital Vector Shoreline
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http://coastalgeospatial.noaa.gov/shoreline.html
+      Source_Scale_Denominator: 80000
+      Type_of_Source_Media: disc
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NOAA's Medium Resolution Digital Vector Shoreline
+      Source_Contribution:
+        Spatial data were derived directly from National Ocean Service Navigation Charts.  The NOS Chart Products meet or exceed National Map Accuracy standards (hard copy); the digital data supplied in this compilation should, when plotted at scale, meet or exceed these same cartographic standards.
+
+        NOAA's Medium Resolution Digital Vector Shoreline is a high-quality, Geographic Information System-ready, general-use digital vector data set created by the Strategic Environmental Assessments (SEA) Division of NOAA's Office of Ocean Resources Conservation and Assessment. Compiled from hundreds of NOAA coast charts, this product comprises over 75,000 nautical miles of coastline (nearly 2.5 million vertices), representing the entire coterminous United States of America. Alaska, the Hawaiian Islands, Puerto Rico, and all other interests and territories of the United States are not included in the collection.
+
+        The previously digitized medium resolution coastlines were combined to create a polygon representation of the 48 contiguous United States.
+    Process_Step:
+      Process_Description:
+        Generation of the Medium Resolution Digital Shoreline Product was accomplished in five stages: data capture, chart cover construction, segment assembly, verification, and final formatting/archive. Stage 1, data capture involves the initial conversion of the analog source data, NOS Coastal Series Navigational Charts, into a digital vector image. During stage 2, the raw vector image is converted into an Arc/Info GIS Coverage. In addition, during this phase of the work, the data is corrected (gross error removal), topologies are constructed, descriptive information is added, and an intermediate archive is created. The third stage is segment assembly. Here, the chart cover data is partitioned into regionally contiguous groupings, (referred to as sections), adjacent boundaries are matched, and the individual charts are joined together to produce continuous shoreline segments. Following assembly, stage 4, data verification, is initiated. Portions of the sectional data are chosen at random to be plotted coincident with chart master sheets (mylars) and compared. Discrepancies are noted, corrective action, if required, is taken, and the data reverified. The fifth and final stage is formatting and final archive. The shoreline data is converted into the two ASCII formats for distribution. 
+
+        A complete description of the process steps is available in the Procedures document file (http://coastalgeospatial.noaa.gov/gis_files/shoreline/data/docs/procs.txt).
+      Process_Date: 1998
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Special Projects (SP)
+            Contact_Person: Steve Rohmann
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 1305 East West Highway, N/MB7
+            City: Silver Spring
+            State_or_Province: MD
+            Postal_Code: 20910
+            Country: USA
+          Contact_Voice_Telephone: (301) 713-3000 x137
+          Contact_Facsimile_Telephone: (301) 713-4384
+          Contact_Electronic_Mail_Address: Steve.Rohmann@noaa.gov
+    Process_Step:
+      Process_Description: The regional shoreline files were combined to create a single data file.  Polylines were drawn along the Canadian and Mexico borders to complete the polygon for the conterminous United States.
+      Source_Used_Citation_Abbreviation: natl_medium_shoreline.shp
+      Source_Used_Citation_Abbreviation: matl_medium_shoreline.shp
+      Source_Used_Citation_Abbreviation: satl_medium_shoreline.shp
+      Source_Used_Citation_Abbreviation: gom_medium_shoreline.shp
+      Source_Used_Citation_Abbreviation: pacific_medium_shoreline.shp
+      Source_Used_Citation_Abbreviation: gl_medium_shoreline.shp
+      Process_Date: 1998
+      Source_Produced_Citation_Abbreviation: allus80k.shp
+      Source_Produced_Citation_Abbreviation: allus80k.dbf
+      Source_Produced_Citation_Abbreviation: allus80k.shx
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Special Projects (SP)
+            Contact_Person: Steve Rohmann
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 1305 East West Highway, N/MB7
+            City: Silver Spring
+            State_or_Province: MD
+            Postal_Code: 20910
+            Country: USA
+          Contact_Voice_Telephone: (301) 713-3000 x137
+          Contact_Facsimile_Telephone: (301) 713-4384
+          Contact_Electronic_Mail_Address: Steve.Rohmann@noaa.gov
+    Process_Step:
+      Process_Description: The filename was changed and a projection (prj) file was created and associated with the data file.
+      Source_Used_Citation_Abbreviation: allus80k.shp
+      Source_Used_Citation_Abbreviation: allus80k.dbf
+      Source_Used_Citation_Abbreviation: allus80k.shx
+      Process_Date: 20011127
+      Source_Produced_Citation_Abbreviation: nos80k.shp
+      Source_Produced_Citation_Abbreviation: nos80k.dbf
+      Source_Produced_Citation_Abbreviation: nos80k.shx
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Valerie Paskevich
+          Contact_Position: Information Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name: National Geodetic Vertical Datum of 1929
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: allus80k.dbf
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: None
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: National Oceanic and Atmospheric Administration (NOAA) , National Ocean Service (NOS), Special Projects (SP)
+        Contact_Person: Steve Rohmann
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 1305 East West Highway, N/SCI-1
+        City: Silver Spring
+        State_or_Province: MD
+        Postal_Code: 20910
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3000 x137
+      Contact_Facsimile_Telephone: (301) 713-4384
+      Contact_Electronic_Mail_Address: Steve.Rohmann@noaa.gov
+  Resource_Description:
+    Downloadable Data: Medium Resolution Digital Vector U.S. Shoreline [OL 72 18.7 -66.5 -168].
+
+    This data file contains the individual NOAA-NOS medium resolution polyline files used to create the NOS80k polygon shapefile.
+  Distribution_Liability:
+    Although this data has been processed successfully on a computer system at National Oceanic and Atmospheric Administration (NOAA), no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer input peripherals, or when the physical medium is delivered in damaged condition.
+
+    Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Version_Number: 3.3
+        Format_Specification: ESRI polyline shapefile
+        Format_Information_Content: Zip archive containing the shapefile, AVL file and HTML formatted documentation.
+        File_Decompression_Technique: zip archive
+        Transfer_Size: 14
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://coastalgeospatial.noaa.gov/gis_files/shoreline/data/shapefiles/us_medium_shoreline.zip
+          Access_Instructions: Data may be downloaded via the World Wide Web (WWW).
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://rimmer.ngdc.noaa.gov/mgg/coast/getcoast.html
+          Access_Instructions: Data may be downloaded via the World Wide Web (WWW). Data can be extracted for select areas from the NGDC site based on entered coordinates. There is a 500,000 point limit to these requests, so large geographic areas can not be processed as a single request.
+    Fees: None
+    Ordering_Instructions:
+      The NOAA Medium Resolution, 1:70,000, Digital Vector Shoreline encompasses the entire contiguous United States coastline, some 80,000 nautical miles. Coverage is divided into four primary units: 
+
+      1. East Coast -U.S./Canada Border at the St. Croix River to the southern tip of the Florida Peninsula (including the Keys) 
+
+      2. Gulf of Mexico Coast -Southern tip of the Florida Peninsula (no Keys) to the U.S./Mexico Border at Brownsville, Texas. 
+
+      3. West Coast -U.S./Mexico Border at Baja to U.S./Canada Border at the Straits of Juan DeFuca. 
+
+      4. Great Lakes -All five lakes, in their entirety, including the connecting waterways (except the St. Lawrence River/Seaway). 
+
+
+      For practical reasons the sections were further divided into three or more components: 
+
+      Atlantic Coastal Section: 
+
+      ec80_01 - St. Mary's Inlet Florida to Little River Inlet South Carolina; 
+      ec80_02 - Little River Inlet South Carolina to Cape Henry, Virginia; 
+      ec80_03 - Chesapeake Bay; 
+      ec80_04 - Chincoteague Inlet Virginia to Block Island Sound Rhode Island; 
+      ec80_05 - Point Judith to St. Croix River; 
+      ec80_06 - St. Mary's River, Florida to Florida Bay (including the Florida Keys.); 
+
+      Gulf Coastal Section: 
+
+      gc80_01 - Padre Island TX to Bayou Choupique, LA; 
+      gc80_02 - Lake Calcasieu, LA to Atchafalaya Bay, LA; 
+      gc80_03 - Point Au Fer, LA to Barataria Pass, LA; 
+      gc80_04 - Grand Terre Island, LA to Gulfport, MS, incl. the Chandeleurs Islands; 
+      gc80_05 - Biloxi River, MS to Chassahowitza Reefs, FL; 
+      gc80_06 - Chassahowitza Reefs, FL to Flamingo, FL; 
+
+      Pacific Coastal Section: 
+
+      wc80_01 - Semiahoo Bay, WA to Yaquina Head, OR; 
+      wc80_02 - Alsea Bay, OR to Point Sur, CA; 
+      wc80_03 - Point Sur, CA to U.S./Mexico Border; 
+
+      Great Lakes Section: 
+
+      gl80_01 - Lake Superior; 
+      gl80_02 - Lake Michigan incl. Lake Winnebago, WI; 
+      gl80_03 - Lake Huron incl. North Channel, and Georgian Bay; 
+      gl80_04 - Lake Erie incl. Detroit, St. Clair, and Niagara Rivers, and Lake St. Clair; 
+      gl80_05 - Lake Ontario incl. St. Lawrence River to Ogdensburg, NY.
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS or ArcView 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing data.  A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700
+      Contact_Facsimile_Telephone: (508) 457-2310
+  Resource_Description: Downloadable Data: NOAA-NOS medium resolution polygon shapefile for the conterminous United States.
+  Distribution_Liability:
+    Although these data have been used by the U.S. Geological Survey (USGS), U.S. Department of the Interior (DOI), no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+    	
+    Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Version_Number: 3.3
+        Format_Specification: ESRI polygon shapefile
+        Format_Information_Content: Zip file containing the shapefile components, metadata and browse graphic (optional).
+        File_Decompression_Technique: Winzip 8.0
+        Transfer_Size: 26
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/coastlines/nos80k/allus80k.zip
+          Access_Instructions: Data may be downloaded via the World Wide Web (WWW).
+    Fees: None
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS or ArcView 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing data.  A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Metadata_Reference_Information:
+  Metadata_Date: 20070604
+  Metadata_Review_Date: 20080108
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Valerie Paskevich
+      Contact_Position: Information Specialist / GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
