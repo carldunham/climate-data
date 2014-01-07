@@ -1,0 +1,11 @@
+
+set d = `date +%Y-%m-%d-%H%M`
+
+cd code/mr-jobs/
+python MRExtractGSODWindData.py -r emr -c mrjob.conf `cat input-files.txt` --no-output --output-dir=s3://climate-data.carldunham.com/mr-output/$d
+cd -
+
+# download to data/raw/mr-output/$d/
+
+cat data/raw/mr-output/$d/part-0000* | code/mr-jobs/convert-to-csv.py > data/raw/$d.csv
+
